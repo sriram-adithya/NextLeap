@@ -1,0 +1,1 @@
+Hi , This is fully based on HTML code for Week 1 Assignment of Flipkart static page
